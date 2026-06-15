@@ -50,4 +50,51 @@ A plataforma não substitui o professor — ela complementa o ensino, criando um
 
 ---
 
+## 5. Impacto Esperado
 
+| Dimensão | Impacto |
+|---|---|
+| 🎓 Acadêmico | Redução das taxas de reprovação e evasão em disciplinas de TI |
+| 💼 Profissional | Aceleração do desenvolvimento de competências técnicas |
+| 🤝 Social | Democratização do acesso à mentoria qualificada, independente da localização |
+| 🌱 Ecossistema | Valorização de profissionais de TI como agentes educadores |
+
+---
+
+## 6. Alinhamento com os ODS da ONU
+
+O projeto foi concebido com alinhamento direto aos **Objetivos de Desenvolvimento Sustentável**:
+
+### 🎓 ODS 4 — Educação de Qualidade *(objetivo principal)*
+O EvoluiTI contribui diretamente para garantir educação inclusiva, equitativa e de qualidade, promovendo oportunidades de aprendizagem ao longo da vida. A plataforma amplia o acesso a uma educação técnica de qualidade, independentemente da condição socioeconômica ou localização geográfica do estudante.
+
+### 💼 ODS 8 — Trabalho Decente e Crescimento Econômico *(objetivo relacionado)*
+Ao preparar melhor os estudantes para o mercado de trabalho em TI, o projeto contribui para a formação de uma força de trabalho qualificada, favorecendo o crescimento econômico sustentável e a geração de empregos dignos na economia digital.
+
+---
+
+## 7. Diferenciais da Proposta
+
+- **Foco em TI**: diferentemente de plataformas generalistas, o EvoluiTI é desenhado especificamente para as demandas de cursos de tecnologia.
+- **Modelo colaborativo**: qualquer profissional ou estudante avançado pode se tornar instrutor, gerando uma comunidade ativa de conhecimento.
+- **Disponibilidade contínua**: agendamento flexível, inclusive fora do horário comercial, respeitando a rotina dos estudantes.
+- **Trilhas estruturadas**: além das mentorias pontuais, a plataforma oferece percursos de aprendizagem alinhados a carreiras e certificações reconhecidas no mercado.
+- **IA como apoio**: recursos de inteligência artificial para revisão de código, geração de resumos e recomendações personalizadas de aprendizado potencializam a experiência sem substituir o papel humano do mentor.
+
+---
+
+## 8. Visão de Futuro
+
+O EvoluiTI nasce com foco no ensino superior, mas sua estrutura permite expansão para cursos técnicos, bootcamps e comunidades de aprendizagem independentes. A longo prazo, a plataforma pode se tornar uma **rede nacional de mentoria em TI**, conectando talentos em formação com profissionais experientes em todo o Brasil.
+
+---
+
+## 9. Integrantes do Projeto
+
+- Alex Lopes
+- Francisco Lucas
+- José Guilherme
+- Nikolas Martins
+- Thyago Antonio
+
+---
